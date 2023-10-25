@@ -4,4 +4,5 @@ function sortDescending(arr) {
   
   const numbers = [5, 2, 9, 1, 5, 6];
   const sortedDescending = sortDescending(numbers);
+  
   console.log(sortedDescending);
